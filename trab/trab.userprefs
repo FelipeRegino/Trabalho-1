@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="trab\trab.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.3_7_WVGA_Nexus_One_API_22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="trab\MainActivity.cs">
+    <Files>
+      <File FileName="trab\MainActivity.cs" Line="17" Column="71" />
+      <File FileName="trab\act2.cs" Line="25" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.trab AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
